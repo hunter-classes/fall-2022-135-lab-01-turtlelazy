@@ -2,7 +2,7 @@
 Author: Ishraq Mahid
 Course : CSCI-135
 Instructor: Genady Maryash
-Assignment: Lab 1C
+Assignment: Lab 1D
 */
 
 #include <iostream>
